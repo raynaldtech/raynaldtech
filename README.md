@@ -67,6 +67,12 @@
 ssh emergency@raynaldtech.com -p 2222
 ```
 
+## 📊 GitHub Stats
+
+[![Raynald Tech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raynaldtech&show_icons=true&title_color=13775F&icon_color=D70000&text_color=3A3A3A&bg_color=ffffff&hide_border=true)](https://github.com/raynaldtech)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raynaldtech&layout=compact&title_color=13775F&text_color=3A3A3A&bg_color=ffffff&hide_border=true)](https://github.com/raynaldtech)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raynaldtech&theme=minimal&color=13775F&line=D70000&area=true&hide_border=true)](https://github.com/raynaldtech)
+
 <!---
 raynaldtech/raynaldtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
